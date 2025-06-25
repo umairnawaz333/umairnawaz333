@@ -5,7 +5,7 @@ const Umair = {
   pronouns: "He" | "Him" | "His",
   code: [Javascript, Typescript, HTML, CSS, Dart, Python, SQL, C++],
   tools: [React, Redux, Node, Flutter, Firebase],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and React"
+  challenge: "I am doing the #100DaysOfCode challenge focused on MERN Stack and Django"
 }
 ```
 
